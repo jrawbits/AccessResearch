@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+.RData
+packrat/lib*/
+packrat/src/
+data/ALX_Clipped/
+data/ALX_Projected/
