@@ -71,8 +71,8 @@ Hash: 38a0f066373a60824cd3ade2362af363
 
 Package: hexbin
 Source: CRAN
-Version: 1.27.0
-Hash: 784735df965ab0cc88ebfe57f5eed631
+Version: 1.27.1
+Hash: 9f94c576cc4b9e83fd714ae8387272e6
 
 Package: igraph
 Source: CRAN
@@ -159,8 +159,8 @@ Requires: Rcpp, plyr, stringr
 
 Package: rgdal
 Source: CRAN
-Version: 1.0-4
-Hash: cdbf64ec989fbbd69b763c10fc933557
+Version: 1.0-5
+Hash: a5b9a411d0a1cab9fe232c918d4e751e
 Requires: sp
 
 Package: rngtools
